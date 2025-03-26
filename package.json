@@ -1,0 +1,16 @@
+{
+  "name": "time-based-password",
+  "version": "1.0.0",
+  "description": "Just experimenting with a password that changes depending on a users specifications",
+  "main": "./server/init.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Edward Cronin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "http-server": "^14.1.1",
+    "winston": "^3.17.0"
+  }
+}
